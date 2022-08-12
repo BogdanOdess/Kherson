@@ -1,28 +1,30 @@
-.gov{
-    display: flex;
-
+body{
+    margin: 0%;
+    padding: 0%;
+    background:#79DACB;
 }
 
-.gov>img{
-    width: 10%;
-    border-radius: 5%;
-    margin-left: 3%;
-    margin-top: 3%;
+.gov{
+display: flex;
+width: 1290x;
+background: #76D0C2;
+margin-left: 4%;
+margin-right: 4%;
+height: 50px;
+border-radius: 10%;
+margin-top: 3%;
 }
 
 .gov>ul{
     display: flex;
-    text-decoration: none;
-    list-style-type: none;
-    margin-left: 3%;
-    margin-top: 5%;
-    margin: 5% 0% 0% 3%;
 }
 
-.dov>ul>li{
-
+.gov>ul>li{
+    list-style-type: none;
+    margin-right: 60px;
 }
 
 .gov>ul>li>a{
-height: 30%;   
+    text-decoration: none;
+    font-size: 19px;
 }
