@@ -1,0 +1,28 @@
+.gov{
+    display: flex;
+
+}
+
+.gov>img{
+    width: 10%;
+    border-radius: 5%;
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+.gov>ul{
+    display: flex;
+    text-decoration: none;
+    list-style-type: none;
+    margin-left: 3%;
+    margin-top: 5%;
+    margin: 5% 0% 0% 3%;
+}
+
+.dov>ul>li{
+
+}
+
+.gov>ul>li>a{
+height: 30%;   
+}
